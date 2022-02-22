@@ -45,8 +45,4 @@ function main () {
     });
 };
 
-function rainbow (colour) {
-    
-}
-
 main();

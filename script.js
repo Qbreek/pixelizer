@@ -1,3 +1,4 @@
+//populates the grid div with a given size
 function makeGrid (size, grid, colour) {
     grid.style.gridTemplateColumns = `repeat(${size},1fr)`;
     grid.style.gridTemplateRows = `repeat(${size},1fr)`;
@@ -42,6 +43,5 @@ function main () {
         makeGrid(Number(inputRange.value),grid, colour)
     });
 };
-
 
 main();

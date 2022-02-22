@@ -1,2 +1,3 @@
 # pixelizer
-Simple pixel art canvas application.
+Simple pixel art drawing application.
+
